@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 한국연구재단 석사과정생연구장려금지원사업 선정
+title: ":tada: 한국연구재단 석사과정생연구장려금지원사업 선정 :tada:"
 date: 2024-08-29
 inline: false
 related_posts: false
