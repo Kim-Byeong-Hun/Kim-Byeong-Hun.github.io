@@ -68,7 +68,7 @@ ninja.data = [{
       },
     },{id: "post-sota-tech-sam-2-segment-anything-in-images-and-videos",
       
-        title: "[SOTA-TECH] SAM 2: Segment Anything in Images and Videos",
+        title: "[SOTA-Tech] SAM 2: Segment Anything in Images and Videos",
       
       description: "",
       section: "Posts",
