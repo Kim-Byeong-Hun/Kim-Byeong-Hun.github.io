@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Kim-Byeong-Hun
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - senseable-ai/yolov9-pose
+  - Kim-Byeong-Hun/AS-PCI
+  - Kim-Byeong-Hun/Fed-PFR
+  - Kim-Byeong-Hun/Probability_Modeling
+  - Kim-Byeong-Hun/Cough-COVID19
