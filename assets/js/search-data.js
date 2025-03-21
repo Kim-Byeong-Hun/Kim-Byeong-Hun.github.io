@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-paper-review",
+          title: "Paper Review",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "Vision AI, Federated Learning, Trajectory Prediction 등 다양한 주제의 프로젝트들을 정리한 GitHub 저장소 목록입니다.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
           },
         },{id: "post-a-post-with-image-galleries",
       
