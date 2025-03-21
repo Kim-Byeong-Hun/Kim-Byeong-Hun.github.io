@@ -16,23 +16,23 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-publications",
           title: "Publications",
-          description: "",
+          description: "국제 저널, 국제 학회, 국내 저널, 국내 학회 발표 등으로 구분된 주요 연구 성과들을 확인할 수 있습니다.  (Conf. → Conference)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "Vision AI, Federated Learning, Trajectory Prediction 등 다양한 주제의 프로젝트들을 정리한 GitHub 저장소 목록입니다.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
