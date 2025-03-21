@@ -44,356 +44,103 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-paper-review-can-language-beat-numerical-regression-language-based-multimodal-trajectory-prediction",
       
-        title: "a post with image galleries",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/photo-gallery/";
-        
-      },
-    },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-      
-        title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-        
-      },
-    },{id: "post-a-post-with-tabs",
-      
-        title: "a post with tabs",
-      
-      description: "this is what included tabs in a post could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/tabs/";
-        
-      },
-    },{id: "post-a-post-with-typograms",
-      
-        title: "a post with typograms",
-      
-      description: "this is what included typograms code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/typograms/";
-        
-      },
-    },{id: "post-a-post-that-can-be-cited",
-      
-        title: "a post that can be cited",
-      
-      description: "this is what a post that can be cited looks like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/post-citation/";
-        
-      },
-    },{id: "post-a-post-with-pseudo-code",
-      
-        title: "a post with pseudo code",
-      
-      description: "this is what included pseudo code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/pseudocode/";
-        
-      },
-    },{id: "post-a-post-with-code-diff",
-      
-        title: "a post with code diff",
-      
-      description: "this is how you can display code diffs",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/code-diff/";
-        
-      },
-    },{id: "post-a-post-with-advanced-image-components",
-      
-        title: "a post with advanced image components",
-      
-      description: "this is what advanced image components could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/advanced-images/";
-        
-      },
-    },{id: "post-a-post-with-vega-lite",
-      
-        title: "a post with vega lite",
-      
-      description: "this is what included vega lite code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/vega-lite/";
-        
-      },
-    },{id: "post-a-post-with-geojson",
-      
-        title: "a post with geojson",
-      
-      description: "this is what included geojson code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/geojson-map/";
-        
-      },
-    },{id: "post-a-post-with-echarts",
-      
-        title: "a post with echarts",
-      
-      description: "this is what included echarts code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/echarts/";
-        
-      },
-    },{id: "post-a-post-with-chart-js",
-      
-        title: "a post with chart.js",
-      
-      description: "this is what included chart.js code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/chartjs/";
-        
-      },
-    },{id: "post-a-post-with-tikzjax",
-      
-        title: "a post with TikZJax",
-      
-      description: "this is what included TikZ code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/tikzjax/";
-        
-      },
-    },{id: "post-a-post-with-bibliography",
-      
-        title: "a post with bibliography",
-      
-      description: "an example of a blog post with bibliography",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/post-bibliography/";
-        
-      },
-    },{id: "post-a-post-with-jupyter-notebook",
-      
-        title: "a post with jupyter notebook",
-      
-      description: "an example of a blog post with jupyter notebook",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/jupyter-notebook/";
-        
-      },
-    },{id: "post-a-post-with-custom-blockquotes",
-      
-        title: "a post with custom blockquotes",
-      
-      description: "an example of a blog post with custom blockquotes",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/custom-blockquotes/";
-        
-      },
-    },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-      
-        title: "a post with table of contents on a sidebar",
-      
-      description: "an example of a blog post with table of contents on a sidebar",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/sidebar-table-of-contents/";
-        
-      },
-    },{id: "post-a-post-with-audios",
-      
-        title: "a post with audios",
-      
-      description: "this is what included audios could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/audios/";
-        
-      },
-    },{id: "post-a-post-with-videos",
-      
-        title: "a post with videos",
-      
-      description: "this is what included videos could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/videos/";
-        
-      },
-    },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-      
-        title: "displaying beautiful tables with Bootstrap Tables",
-      
-      description: "an example of how to use Bootstrap Tables",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/tables/";
-        
-      },
-    },{id: "post-a-post-with-table-of-contents",
-      
-        title: "a post with table of contents",
-      
-      description: "an example of a blog post with table of contents",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/table-of-contents/";
-        
-      },
-    },{id: "post-a-post-with-giscus-comments",
-      
-        title: "a post with giscus comments",
-      
-      description: "an example of a blog post with giscus comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2022/giscus-comments/";
-        
-      },
-    },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-      
-        title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: "[Paper Review] Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction",
       
       description: "",
       section: "Posts",
       handler: () => {
         
-          window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+          window.location.href = "/blog/2024/paper9/";
         
       },
-    },{id: "post-a-post-with-redirect",
+    },{id: "post-paper-review-eagle-exploring-the-design-space-for-multimodal-llms-with-mixture-of-encoders",
       
-        title: "a post with redirect",
+        title: "[Paper Review] EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of...",
       
-      description: "you can also redirect to assets like pdf",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/assets/pdf/example_pdf.pdf";
+          window.location.href = "/blog/2024/paper8/";
         
       },
-    },{id: "post-a-post-with-diagrams",
+    },{id: "post-sota-tech-sam-2-segment-anything-in-images-and-videos",
       
-        title: "a post with diagrams",
+        title: "[SOTA-TECH] SAM 2: Segment Anything in Images and Videos",
       
-      description: "an example of a blog post with diagrams",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/diagrams/";
+          window.location.href = "/blog/2024/paper7/";
         
       },
-    },{id: "post-a-distill-style-blog-post",
+    },{id: "post-paper-review-fl-fd-federated-learning-based-fall-detection-with-multimodal-data-fusion",
       
-        title: "a distill-style blog post",
+        title: "[Paper Review] FL-FD: Federated learning-based fall detection with multimodal data fusion",
       
-      description: "an example of a distill-style blog post and main elements",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2021/distill/";
+          window.location.href = "/blog/2024/paper6/";
         
       },
-    },{id: "post-a-post-with-twitter",
+    },{id: "post-paper-review-fl-fd-federated-learning-based-fall-detection-with-multimodal-data-fusion",
       
-        title: "a post with twitter",
+        title: "[Paper Review] FL-FD: Federated learning-based fall detection with multimodal data fusion",
       
-      description: "an example of a blog post with twitter",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2020/twitter/";
+          window.location.href = "/blog/2024/paper5/";
         
       },
-    },{id: "post-a-post-with-disqus-comments",
+    },{id: "post-paper-review-communication-efficient-learning-of-deep-networks-from-decentralized-data",
       
-        title: "a post with disqus comments",
+        title: "[Paper Review] Communication-Efficient Learning of Deep Networks from Decentralized Data",
       
-      description: "an example of a blog post with disqus comments",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/disqus-comments/";
+          window.location.href = "/blog/2024/paper4/";
         
       },
-    },{id: "post-a-post-with-math",
+    },{id: "post-paper-review-conflux-lstms-network-a-novel-approach-for-multi-view-action-recognition",
       
-        title: "a post with math",
+        title: "[Paper Review] Conflux LSTMs Network: A Novel Approach for Multi-View Action Recognition",
       
-      description: "an example of a blog post with some math",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/math/";
+          window.location.href = "/blog/2023/paper3/";
         
       },
-    },{id: "post-a-post-with-code",
+    },{id: "post-paper-review-qpic-query-based-pairwise-human-object-interaction-detection-with-image-wide-contextual-information",
       
-        title: "a post with code",
+        title: "[Paper Review] QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information",
       
-      description: "an example of a blog post with some code",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/code/";
+          window.location.href = "/blog/2023/paper2/";
         
       },
-    },{id: "post-a-post-with-images",
+    },{id: "post-paper-review-real-time-pedestrian-pose-estimation-tracking-and-localization-for-social-distancing",
       
-        title: "a post with images",
+        title: "[Paper Review] Real-time pedestrian pose estimation, tracking and localization for social distancing",
       
-      description: "this is what included images could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/images/";
-        
-      },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
+          window.location.href = "/blog/2023/paper1/";
         
       },
     },{id: "books-the-godfather",
