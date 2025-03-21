@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "국제 저널, 국제 학회, 국내 저널, 국내 학회 발표 등으로 구분된 주요 연구 성과들을 확인할 수 있습니다.  (Conf. → Conference)",
+          description: "국제 저널, 국제 학회, 국내 저널, 국내 학회, 특허 등으로 구분된 주요 연구 성과들을 확인할 수 있습니다.  (Jour. → Journal, Conf. → Conference)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -401,19 +401,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-한국연구재단-석사과정생연구장려금지원사업-선정",
-          title: '한국연구재단 석사과정생연구장려금지원사업 선정',
+            },},{id: "news-tada-한국연구재단-석사과정생연구장려금지원사업-선정-tada",
+          title: ':tada: 한국연구재단 석사과정생연구장려금지원사업 선정 :tada:',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-scroll-oral-presentation-at-aaai-2025-fluid-workshop",
+          title: ':scroll: Oral presentation at AAAI 2025 FLUID Workshop',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-sparkles-published-in-applied-intelligence-sci-sparkles",
+          title: ':sparkles: Published in *Applied Intelligence (SCI)* :sparkles:',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
