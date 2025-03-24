@@ -1,18 +1,23 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Vision 기반 부모-아동 상호작용 측정 시스템 개발
+description: 감성 지능형 아동케어시스템을 위한 비전 기반 부모-아동 상호작용 모듈 개발
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Parent-child interactions Recognition
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**프로젝트명: 감성 지능형 아동케어시스템을 위한 비전 기반 부모-아동 상호작용 모듈 개발** <br>
+**기간: 2023.12 - 2024.12** <br>
+**역할: [Vision Team] 연구원**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+---
+
+##### 1. 프로젝트 배경
+
+
+:
 
     ---
     layout: page
