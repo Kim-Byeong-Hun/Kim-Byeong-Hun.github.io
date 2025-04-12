@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-paper-review-can-language-beat-numerical-regression-language-based-multimodal-trajectory-prediction",
+        },{id: "post-paper-review-a-review-of-deepseek-models-39-key-innovative-techniques",
+      
+        title: "[Paper Review] A Review of DeepSeek Models&#39; Key Innovative Techniques",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/paper10/";
+        
+      },
+    },{id: "post-paper-review-can-language-beat-numerical-regression-language-based-multimodal-trajectory-prediction",
       
         title: "[Paper Review] Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction",
       
