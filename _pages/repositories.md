@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: Repositories
 description: Vision AI, Federated Learning, Trajectory Prediction 등 다양한 주제의 프로젝트들을 정리한 GitHub 저장소 목록입니다.
-nav: true
+nav: false
 nav_order: 5
 ---
 

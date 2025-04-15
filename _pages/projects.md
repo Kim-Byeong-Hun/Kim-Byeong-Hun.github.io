@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: AI 기반 개인 연구 및 팀 프로젝트들을 소개합니다. 각 프로젝트는 기술적 배경, 구현 방식, 실험 결과 등을 포함하고 있습니다.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [MLLM-based Trajectory Prediction, Federated learning-based Fall Detection, Vision-Based Anomaly Recognition, Parent-child interactions Recognition, work, fun]
 horizontal: false
