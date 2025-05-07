@@ -6,7 +6,7 @@
     "email": "byeonghun@sch.ac.kr",
     "phone": "+82)10-5015-5129",
     "url": "https://kim-byeong-hun.github.io/",
-    "summary": "현실에 안주하지 않고 끊임없이 성장하는 AI 개발자가 되고 싶습니다. <br> <br> 제 주요 연구 키워드는 다음과 같습니다: <br> - Computer Vision <br> - LLM/MLLM-based Autonomous driving safety system <br> - Personalized Federated Learning <br> - Intelligent Transport Systems <br> - Traffic Safety Systems",
+    "summary": "<b>현실에 안주하지 않고 끊임없이 성장하는 AI 개발자가 되고 싶습니다.</b> <br> <br> 현재 석사과정에 재학 중이며, <b>스마트시티 및 모빌리티 환경에서의 안전 시스템과 분산 데이터 처리를 위한 연합학습 기술</b>을 중심으로 연구를 진행하고 있습니다. <br> <br> 최근에는 자율주행 시스템의 안전성과 신뢰성을 강화하기 위한 <b>LLM/LMM 기반 궤적 예측 시스템 고도화</b>에 대한 연구를 진행하고 있으며, 실시간 도로 환경에서의 정확도와 설명 가능성을 높이기 위한 통합적 접근 방식을 연구하고 있습니다. <br> <br> 제 연구는 다음과 같은 키워드를 중심으로 이루어지고 있으나, <b>이에 국한되지 않고 다양한 AI 기반 응용 문제 해결에 관심</b>을 두고 있습니다. <br> <br> <b>Keywords</b> <br> - Computer Vision <br> - LLM/MLLM-based Safety System <br> - Personalized Federated Learning",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -28,7 +28,7 @@
       "location": "Asan, South Korea",
       "url": "https://www.sailab.xyz/",
       "area": "Department of Future Convergence Technology",
-      "studyType": "Master's degree",
+      "studyType": "Master's degree (GPA: 4.5/4.5)",
       "startDate": "2023-09",
       "endDate": "2025-08",
       "score": "10",
@@ -39,7 +39,7 @@
       "location": "Asan, South Korea",
       "url": "https://home.sch.ac.kr/aibigdata/",
       "area": "Department of Big Data Engineering",
-      "studyType": "Bachelor's degree",
+      "studyType": "Bachelor's degree (GPA: 3.38/4.5)",
       "startDate": "2017-03",
       "endDate": "2021-02",
       "score": "10",
@@ -48,7 +48,7 @@
   ],
   "publications": [
     {
-      "name": "[Under review - Revision] Pedestrian Collapse Detection Method with Federated Spatio-Temporal Transformers in Distributed Road Surveillance Systems",
+      "name": "[Under review(Revision)] Pedestrian Collapse Detection Method with Federated Spatio-Temporal Transformers in Distributed Road Surveillance Systems",
       "publisher": "IEEE Transactions on Intelligent Transportation Systems",
       "releaseDate": "2025-12-00",
       "summary": "Byeonghun Kim, Byeongjoon Noh"
@@ -74,14 +74,14 @@
       "date": "2020-11",
       "awarder": "순천향대학교 빅데이터공학과",
       "url": "https://www.youtube.com/watch?v=btKgapFNAw0&list=PLwvr-xPygMX9VjYMrr4ZViwRnHbeYk-uy&index=6",
-      "summary": "기침소리 기반 코로나19 확진여부 분류 임베디드 시스템"
+      "summary": "<b>프로젝트명:</b> 기침소리 기반 코로나19 확진여부 분류 임베디드 시스템 <br> <b>담당 역할:</b> 팀장 <br> <b>주요 기여:</b> 음성 데이터 STFT, MFCC 등 이미지 변환, CNN 기반 이미지 Classification 모델 구축"
     },
     {
       "title": "[대상] 2020 데이터 크리에이터 캠프",
       "date": "2020-10",
       "awarder": "과학기술정보통신부, NIA",
       "url": "https://www.youtube.com/watch?v=btKgapFNAw0&list=PLwvr-xPygMX9VjYMrr4ZViwRnHbeYk-uy&index=6",
-      "summary": "ResNet기반 한국 음식 이미지 분류 모델 개발"
+      "summary": "<b>프로젝트명:</b> 한국 음식 이미지 분류를 위한 CNN(ResNet50, ResNet101) 기반 모델 개발 <br> <b>담당 역할:</b> 팀원 <br> <b>주요 기여:</b> CNN(ResNet50, ResNet101) 모델 개발"
     }
   ],
   "work": [
@@ -90,42 +90,42 @@
       "position": "노드 소대장",
       "startDate": "2021-03-01",
       "endDate": "2023-06-30",
-      "summary": "군 통신 장비 운용 교육 및 통신소 화재관리 웹 시스템 구축, 훈련 통신 지원 담당"
+      "summary": "<b>담당 업무:</b> 부대 통신 장비(유무선 통신망, 교환기, 위성장비 등)의 운용 및 유지보수 총괄, 통신소대 노드 운용 및 관제 임무 수행, 실시간 장애 대응 체계 구축 등 <br><br> <b>주요 성과:</b> 무인 통신소 화재관리 시스템 구축 기여 표창(배치 파일/웹 프로그래밍 기반 실시간 핑테스트 사이트 구축), 호국훈련 통신 발전 기여 표창(예하부대 통신지원)"
     }
   ],
   "projects": [
     {
+      "name": "Multimodal-LLM 기반 궤적 예측 프레임워크 개발",
+      "summary": "개인프로젝트",
+      "highlights": ["<b>프로젝트 배경:</b> 차량 궤적 예측에 관련한 기존 연구들은 도로 인프라 및 차량 간 상호작용 같은 맥락적 정보를 충분히 반영하지 못하는 한계가 존재함. 이를 해결하기 위해, 본 연구에서는 이를 해결하기 위해 드론 영상과 텍스트 프롬프트를 통합적으로 활용하여 장기 차량 궤적 예측과 구조화된 교통 상황 생성을 동시에 처리하는 MLLM 기반 프레임워크를 구현함. <br><br>", "<b>프로젝트 결과:</b> 실험 결과, 기존 SOTA 모델 대비 평균 거리 오차(ADE)를 크게 개선하였으며, 동시에 해석 가능한 교통 상황 정보 생성을 달성함. 향후에는 개인화 연합학습을 도입하여 개인 맞춤형 도로 위험 상황 예측 모델로 확장할 예정임."],
+      "startDate": "2025-03",
+      "endDate": "2025-08"
+    },
+    {
       "name": "차세대 지능형 교통안전시스템을 위한 컴퓨터비전기반 도로위험행동 예측모델의 개인화 준지도 연합학습",
       "summary": "한국연구재단(NRF), Korea",
-      "highlights": ["Multimodal Large Language Model(MLLM)", "Trajectory Prediction", "Traffic Context Generation"],
+      "highlights": ["<b>담당 역할:</b> 연구 책임자", "<b>주요 기여:</b> 도로 내 보행자 낙상 감지 모델 개발 및 Attention 기반 연합학습 프레임워크 개발<br><br>", "<b>프로젝트 배경:</b> 보행자 낙상 사고를 감지하는 것은 중요하며, 기존 낙상 감지 연구는 실내 환경에 한정되어 있어 도로 환경의 다양한 조건을 반영하지 못함. 본 연구는 도로 인프라에 설치된 CCTV를 활용해 보행자 낙상을 감지하고, 통신 부담 및 프라이버시 문제를 해결하기 위한 연합학습 기반 프레임워크를 개발하고자 함.<br><br>", "<b>프로젝트 결과:</b> 트랜스포머 및 그래프 기반 낙상 감지 모델을 구현하고, 실내외 데이터셋을 활용해 모델의 일반화 성능을 검증함. FedAvg 기반 연합학습 구조에 Attention 메커니즘을 도입해 클라이언트별 특성을 반영함. 제안한 시스템은 분산된 CCTV 환경에서 높은 성능과 실시간 낙상 감지가 가능함을 입증함.<br><br>", "<b>주요 성과:</b> SCI(E) 주저자 1편, 탑 컨퍼런스(AAAI) 워크숍 1편, SCI(E) 저널 논문 1편 Revision 진행 중"],
       "startDate": "2024-09",
       "endDate": "2025-08"
     },
     {
       "name": "감성 지능형 아동케어시스템을 위한 비전 기반 부모-아동 상호작용 모듈 개발",
       "summary": "순천향대학교 융합분야 선도연구센터(CRC), Korea",
-      "highlights": ["Action Recognition", "Head Pose Estimation", "Gaze Estimation"],
+      "highlights": ["<b>담당 역할:</b> Vision team 연구원", "<b>주요 기여:</b> 비전 기반 부모-아동 상호작용 모듈 개발<br><br>", "<b>프로젝트 배경:</b> 발달 장애 아동의 조기 진단 및 개입을 위해 부모와의 상호작용을 정량적으로 측정하는 시스템을 구축하는 것은 필수적임. 하지만, 기존 접근 방식은 전문가의 주관적 판단에 의존해 상호작용을 정성적으로 분석하는 데 그쳤으며, 객관적인 평가 기준이나 자동화된 분석 기술이 부족한 실정임. 이를 해결하기 위해, 본 연구에서는 가정 내 홈캠 및 CCTV 영상 데이터를 활용하여, Vision AI 기반으로 부모-아동 간 상호작용을 자동으로 평가할 수 있는 모듈을 개발하고자 함.<br><br>", "<b>프로젝트 결과:</b> 초기에는 상호작용의 객관적인 평가 기준을 정립하는 데 어려움이 있었으나, 작업치료학과 교수진과의 주기적인 협업을 통해 명확한 평가 지표를 수립함. 이를 바탕으로, Head Pose Estimation과 Action Recognition 모델을 적용하여 부모와 아동의 시선 방향과 행동 패턴을 정량화할 수 있는 Vision AI 기반 상호작용 분석 모듈을 구현함. 해당 시스템은 전문가의 직관에 의존하지 않고, 실시간 영상에서 부모-아동 간의 상호작용 수준을 자동으로 분류할 수 있음.<br><br>", "<b>주요 성과:</b> 국외 컨퍼런스 1편"],
       "startDate": "2023-12",
       "endDate": "2024-12"
     },
     {
-      "name": "Drone-vision Context 기반 도로 상황 분석 및 차량 행동 예측 프레임워크 개발",
-      "summary": "순천향대학교 산학협력단, Korea",
-      "highlights": ["Drone-vision Context", "Vehicle Action Prediction", "Traffic Situation Analysis"],
-      "startDate": "2024-03",
-      "endDate": "2024-10"
-    },
-    {
       "name": "도심항공교통(UAM) 내, 비전 기반 위험상황 감지 모델 개발",
       "summary": "대전광역시, Korea",
-      "highlights": ["Urban Air Mobility", "Vision-based Risky Behaviors Recognition", "Rule-based Scheduler"],
+      "highlights": ["<b>담당 역할:</b> 참여 연구원", "<b>주요 기여:</b> Vision 모델(Object Detection, Face Recognition 등) 구현 및 모델 경량화/스케줄러 기법 개발<br><br>", "<b>프로젝트 배경:</b> 도심항공교통(UAM, Urban Air Mobility)은 차세대 교통수단으로 주목받고 있으며, 운항 안전 확보는 그 핵심 과제 중 하나임. 특히, 기내에서 발생할 수 있는 위험 행동(예: 폭력, 기기 파손, 이상 행동 등)을 조기에 감지하고 대응할 수 있는 시스템이 요구됨. 그러나 UAM은 제한된 전력 등으로 인해 리소스 제약이 존재하는 특수 환경이기 때문에, 고정된 모델의 상시 운영은 비효율적이며, 자원 소모가 심한 문제가 있음. 이에 따라, 리소스 상황과 상황별 위험도에 따라 Vision 모델을 동적으로 구동하는 스케줄러 기반 시스템을 개발하고자 하였음.<br><br>", "<b>프로젝트 결과:</b> 본 프로젝트에서는 YOLO 기반 Object Detection, Face Recognition, Pose Estimation 등의 모델을 UAM 내 탑재 환경에 맞게 경량화하고, Rule-based 스케줄링 기법을 적용한 리소스 최적화 프레임워크를 설계함. 이를 통해, 운항 중에도 안정적이고 효율적인 위험 행동 감지가 가능하도록 시스템을 구축하였으며, 향후 실제 적용을 위한 기술적 기반을 마련함.<br><br>", "<b>주요 성과:</b> SCI(E) 주저자 1편, 국내 컨퍼런스 1편"],
       "startDate": "2023-10",
       "endDate": "2024-02"
     },
     {
       "name": "Multi-modal(Vision, Sensor) 낙상사고 예측 모델 개발",
       "summary": "순천향대학교 산학협력단, Korea",
-      "highlights": ["Drone-vision Context", "Vehicle Action Prediction", "Traffic Situation Analysis"],
+      "highlights": ["<b>담당 역할:</b> Vision team 연구원", "<b>주요 기여:</b> 데이터 전처리, 낙상 데이터셋 구축, Multimodal 모델 개발<br><br>", "<b>프로젝트 배경:</b> 고령화 사회로 진입하면서 낙상사고는 개인의 건강뿐만 아니라 사회적 비용 부담을 초래하는 주요 문제로 부각되고 있음. 특히, 낙상은 갑작스럽게 발생하며 사고 직전의 미세한 이상 동작을 포착하기 어려워 사전 예측 시스템 구축의 어려움이 존재함. 기존 연구들은 주로 영상이나 센서 중 하나의 단일 모달리티에 의존해 왔으며, 이로 인해 복잡한 환경이나 다양한 행동 패턴을 인식하는 데 한계가 있음. 이에 따라 본 프로젝트는, 실내 CCTV 영상과 관성 센서(IMU) 데이터를 결합한 멀티모달 기반의 낙상 위험 동작 예측 시스템을 구축하고자 하였음.<br><br>", "<b>프로젝트 결과:</b> 본 프로젝트에서는 Vision AI 기반의 행동 인식 모델과 웨어러블 IMU 센서 기반의 시계열 분석 모델을 결합하여, 낙상 위험 동작을 사전에 감지할 수 있는 멀티모달 예측 모델을 개발하였음. 또한 실내 CCTV 영상과 센서 데이터를 쌍으로 수집하여 낙상 전후의 동작을 정밀하게 정렬한 학습용 데이터셋을 구축하고, 멀티 모달 데이터를 통합하여 낙상 직전의 위험 행동을 조기 탐지하는 모델을 개발함."],
       "startDate": "2023-09",
       "endDate": "2023-12"
     }
