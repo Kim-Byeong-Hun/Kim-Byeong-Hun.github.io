@@ -17,8 +17,3 @@ related_posts: false
 앞으로도 성실하게 임하며, 좋은 연구가 더욱 공정하고 풍성한 논의를 통해 발전할 수 있도록 기여하겠습니다.
 
 ---
-
-<div align="center">
-    <img src="/assets/img/aaai-1.jpg" alt="Figure1" width="53%">
-    <img src="/assets/img/aaai-2.jpg" alt="Figure2" width="43%">
-</div>
