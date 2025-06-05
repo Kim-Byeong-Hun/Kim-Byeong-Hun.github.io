@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-2025년 6월 5일부로 **Elsvier**의 **Reliability Engineering & System Safety(IF: 9.4)** 저널과 **Expert Systems With Applications (IF: 7.5)**의 리뷰어로 활동하게 되었습니다.
+2025년 6월 5일부로 **Elsevier**의 **Reliability Engineering & System Safety(IF: 9.4)** 저널과 **Expert Systems With Applications (IF: 7.5)**의 리뷰어로 활동하게 되었습니다.
 
 이번 리뷰어 위촉은 제가 지속적으로 연구해온 **스마트 시티 및 모빌리티 환경에서의 포괄적 위험 감지, 선제적 위험 감지를 위한 궤적 예측 분야**에서의 학술적 전문성과 연구 역량을 국제적으로 인정받은 결과로, 개인적으로도 매우 뜻깊은 기회입니다.
 
