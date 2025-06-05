@@ -160,6 +160,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-tada-elsevier-sci-e-급-저널-리뷰어-위촉-jress-if-9-4-eswa-if-7-5-tada",
+          title: ':tada: Elsevier SCI(E)급 저널 리뷰어 위촉 – JRESS(IF: 9.4), ESWA(IF: 7.5) :tada:',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{
         id: 'social-email',
         title: 'email',
