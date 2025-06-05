@@ -1,0 +1,24 @@
+---
+layout: post
+title: ":tada: Elsevier SCI(E)급 저널 리뷰어 위촉 – JRESS(IF: 9.4), ESWA(IF: 7.5) :tada:"
+date: 2025-06-05
+inline: false
+related_posts: false
+---
+
+2025년 6월 5일부로 **Elsvier**의 **Reliability Engineering & System Safety(IF: 9.4)** 저널과 **Expert Systems With Applications (IF: 7.5)**의 리뷰어로 활동하게 되었습니다.
+
+이번 리뷰어 위촉은 제가 지속적으로 연구해온 **스마트 시티 및 모빌리티 환경에서의 포괄적 위험 감지, 선제적 위험 감지를 위한 궤적 예측 분야**에서의 학술적 전문성과 연구 역량을 국제적으로 인정받은 결과로, 개인적으로도 매우 뜻깊은 기회입니다.
+
+두 저널은 산업 및 사회 전반의 실제 문제 해결을 다루는 **SCI(E)급 국제 학술지**로, 다양한 연구자들의 창의적인 문제 해결 방식과 최첨단 접근법을 가까이에서 접할 수 있다는 점에서 큰 매력이 있습니다.
+
+무엇보다도 이번 활동을 통해 **학문적 봉사로서의 책무**를 다함과 동시에, 제 자신의 **연구적 식견**을 넓히고, **새로운 연구 주제를 확립**하거나 보다 **정교한 문제 정의의 관점을 정립**하는 데에도 큰 도움이 될 것이라 기대하고 있습니다.
+
+앞으로도 성실하게 임하며, 좋은 연구가 더욱 공정하고 풍성한 논의를 통해 발전할 수 있도록 기여하겠습니다.
+
+---
+
+<div align="center">
+    <img src="/assets/img/aaai-1.jpg" alt="Figure1" width="53%">
+    <img src="/assets/img/aaai-2.jpg" alt="Figure2" width="43%">
+</div>
